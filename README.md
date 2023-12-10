@@ -1,8 +1,7 @@
-# <div align="center">⚡️ Button Toggle Cubit ⚡️</div>
+# <div align="center">♻️ Toggle Cubit ♻️</div>
 
 
 ## 🚀 Getting Started
-
 - This Flutter repo that demonstrates a Toggle Cubit implementation, providing a simple and efficient way to manage toggle states in your Flutter applications. Utilize Cubit for state management to handle toggles, switches, or binary choices with ease.
 
 
